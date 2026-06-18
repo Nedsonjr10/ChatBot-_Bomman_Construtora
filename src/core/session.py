@@ -277,7 +277,7 @@ class SessionManager:
                     "Para que nosso time possa te atender melhor, nos conte:\n\n"
                     "• O que pretende *reformar*? (ex: banheiro, cozinha, fachada, toda a casa...)\n"
                     "• Qual a *localidade* do imóvel? (cidade / bairro)\n"
-                    "• Tem alguma ideia de *prazo* para início?\n\n"
+                    "• Já tem algum projeto arquitetônico ou precisa de indicação?\n\n"
                     "Pode mandar tudo aqui! Assim que recebermos, um *atendente da Bomman* já vai falar com você. 💪\n\n"
                     "_(Digite MENU para voltar ao início)_"
                 )
