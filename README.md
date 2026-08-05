@@ -91,7 +91,7 @@ bomman-bot/
 | Bot Backend | Python 3.13 + FastAPI + Uvicorn |
 | Session Storage | SQLite (via better-sqlite3 + Python sqlite3) |
 | Intent Detection | Custom keyword ontology (triage.py) |
-| Process Manager | PM2 (optional, for production) |
+| Process Manager | PM2 (production deployment) |
  
 ---
  
@@ -99,7 +99,7 @@ bomman-bot/
  
 ### Prerequisites
 - Python 3.13+
-- Node.js 18+
+- Node.js 20+
 - Git
 ### 1. Clone the repository
 ```bash
